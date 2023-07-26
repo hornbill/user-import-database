@@ -1,2 +1,3 @@
-# user-import-database
-Extract, transform and load user records into Hornbill from multiple database sources.
+# User Import - Database to Hornbill
+
+See the [Hornbill Wiki](https://wiki.hornbill.com/index.php?title=SQL_User_Import) for documentation.
