@@ -1,3 +1,3 @@
 # User Import - Database to Hornbill
 
-See the [Hornbill Wiki](https://wiki.hornbill.com/index.php?title=SQL_User_Import) for documentation.
+See the [Data Imports Guide](https://docs.hornbill.com/data-imports-guide/users/database/overview) for documentation.
